@@ -1,6 +1,15 @@
 # hackUST-2023
 Code for Trend Track Transparency
-Team One-Hit Wonder
+
+Team: One-Hit Wonder
+
+Teammates:
+
+Kelly Ho
+
+Kevin Chin
+
+Suki Ng
 
 # TrendingTopics Smart Contract
 
