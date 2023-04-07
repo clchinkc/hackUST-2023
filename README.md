@@ -39,10 +39,6 @@ The contract owner can withdraw tokens from the contract at any time by calling 
 Getting Started
 To use this smart contract, you will need an Ethereum wallet and some tokens. You can deploy the contract to a local or test network (e.g., Ganache, Rinkeby, etc.) using a tool like Remix or Truffle.
 
-## Requirements
-- An Ethereum wallet (e.g., MetaMask)
-- Solidity compiler (e.g., Remix, Truffle, etc.)
-
 ## Further Improvements
 
 - Implement pagination for topic retrieval.
