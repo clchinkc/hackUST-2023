@@ -1,6 +1,4 @@
 
-// npm install @openzeppelin/contracts
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity >=0.8.0 <0.9.0;
@@ -72,9 +70,3 @@ contract TrendingTopics is Ownable {
         revert("Do not send ether directly to this contract.");
     }
 }
-
-
-// This smart contract example uses the OpenZeppelin library for ERC20 tokens and safe operations. It provides functions for creating new topics, voting for topics, and withdrawing the tokens by the contract owner.
-
-// For a more complete and robust implementation, additional features like pagination for topic retrieval, integration with decentralized storage solutions (e.g., IPFS), and implementation of a DAO for community governance should be considered.
-
